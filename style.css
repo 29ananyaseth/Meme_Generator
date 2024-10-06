@@ -1,3 +1,14 @@
+body{
+   background-image:url(world-laughter-day-background_584899-78.avif) ;
+   /* height: 100%; */
+
+
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+   
+}
+
 .meme-generator
 {
     font-family: "Roboto", sans-serif;
@@ -10,13 +21,17 @@
 }
  .meme-generator .generate-meme-btn{
 
-    padding:8px 20px;
-    border :none;
-    border-left: 4px solid #222;
-    border-right: 4px solid #222;
+    padding:20px;
+    background-color: darkgoldenrod;
+    font-size: 30px;
+    border :brown;
+    border-style: dotted;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-left: 5px dotted #222;
+    border-right: 5px dotted #222;
     margin:24px 0;
-    color :#f64d4d;
-    background: #fff;
+    color :#6b0707;
+    background: #f0e67b;
     cursor:pointer;
     transition: all 400ms ease;
  }
@@ -31,4 +46,11 @@
  .meme-generator .meme-author
  {
     margin: 8px;
+    background-color: antiquewhite;
+ }
+ .meme-generator .meme-title{
+   background-color: rgb(249, 247, 129);
+   margin: 8px;
+   font-style: oblique;
+
  }
