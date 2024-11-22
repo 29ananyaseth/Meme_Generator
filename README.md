@@ -8,17 +8,25 @@ Users can generate memes dynamically by clicking a button, with information abou
 Features 🚀
 
 1-Random Meme Generation: Fetches memes dynamically from the API.
+
 2-Wholesome Meme Category: Only wholesome memes for positive vibes! 🌟
+
 3-Interactive Design: Styled with responsive and visually appealing CSS.
+
 4-Easy to Use: Click the button to generate a new meme.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Screenshots 📸
 
+Screenshot-1
+
 
 ![ss1 (2)](https://github.com/user-attachments/assets/64e71c76-32b3-476f-9902-df58c9e00e24)
 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Screenshot-2
 
 
 ![ss2](https://github.com/user-attachments/assets/621acd39-34db-4771-acb4-e6c3a4ce8223)
@@ -29,8 +37,11 @@ Screenshots 📸
 Tech Stack 🛠️
 
 ->HTML: Structure of the webpage.
+
 ->CSS: Styling for an engaging user experience.
+
 ->JavaScript: Dynamic behavior and API integration.
+
 ->Meme API: Provides random wholesome memes.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -52,7 +63,9 @@ cd meme-generator
 How It Works? 🤔
 
 1-On page load, a random meme is displayed.
+
 2-Click the Generate Meme button to fetch and display a new meme.
+
 3-The app uses the fetch API to get meme data (image, title, author) from the Meme API.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -77,6 +90,7 @@ Feel free to fork this project, open issues, or submit pull requests. Contributi
 Acknowledgements 💡
 
 1-Meme API for the awesome memes.
+
 2-Roboto Font for clean typography.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
